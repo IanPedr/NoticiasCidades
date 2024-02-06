@@ -31,4 +31,4 @@ Este projeto está aberto para contribuições. Sinta-se à vontade para utiliza
 
 Imagem da Página 
 
-![IPNSMove](https://github.com/IanPedr/IPNS-Move/assets/118200333/1bf182c9-c9e9-4763-8080-cafe1ee66fda)
+![IPNSMove](![Screenshot_410](https://github.com/IanPedr/NoticiasCidades/assets/118200333/3aedfa1f-a315-480d-b2a2-53b39864b681))
