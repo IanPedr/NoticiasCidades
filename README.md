@@ -31,4 +31,5 @@ Este projeto está aberto para contribuições. Sinta-se à vontade para utiliza
 
 Imagem da Página 
 
-<img src="https://github.com/IanPedr/NoticiasCidades/issues/1#issue-2121851163">
+![Screenshot_410](https://github.com/IanPedr/NoticiasCidades/assets/118200333/24050140-904a-4bff-ad26-cf9c5ef4b1df)
+
